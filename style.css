@@ -1,0 +1,97 @@
+body {
+    background-color: rgba(247, 247, 247, 0.925);
+    margin-bottom: 1000px;
+    display: inline;
+}
+
+.main-topic-div {
+    display: flex;
+    margin-top: 80px;
+    margin-left: 350px;
+    background-color: white;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: gainsboro;
+    border-width: 0.50px;
+    width: 450px;
+    height: 80px;
+    justify-content: space-around;
+}
+
+.top-title-img-profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.continer-div {
+    display: grid;
+    background-color: white;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: gainsboro;
+    border-width: 0.50px;
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 450px;
+}
+
+.continer-profile-div{
+    display: flex;
+    cursor: pointer;
+    height: 70px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+
+.continer-profile-img {
+    display: inline;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+
+.continer-profile-div1 {
+    display: flex;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.button-common {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.button-common1 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.button-common-div {
+    border: none;
+    background-color: white;
+}
+
+.discription-para {
+    margin: 10px;
+}
+
+.command-section-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.description-input {
+    border: none;
+    border-radius: 10px;
+    font-family: Arial;
+    font-size: 17px;
+}
